@@ -9,6 +9,7 @@
 //#include <Arduino_FreeRTOS.h>
 #define BNO055_SAMPLERATE_DELAY_MS (100);
 
+#include <ChRt.h>
 MS5637 pressureSensor;
 
 
